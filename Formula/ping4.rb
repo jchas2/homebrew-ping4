@@ -12,9 +12,9 @@
 class Ping4 < Formula
   desc "IPv4 ping for macOS"
   homepage "https://github.com/jchas2/ping4"
-  url "https://github.com/jchas2/ping4/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "PLACEHOLDER"
-  version "1.0.0"
+  url "https://github.com/jchas2/ping4/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  version "1.2.0"
   license "MIT"
   head "https://github.com/jchas2/ping4.git", branch: "main"
 
